@@ -4,7 +4,7 @@
     align-items: center;
     flex-direction: column;
 
-    font-size: 15px;
+    font-size: 24px;
 
     line-height: 4px;
     
@@ -32,9 +32,11 @@
     column-gap: 0;
 
     background-color: white;
-    width:35%;
+    width:100%;
     padding-top: 80px;
     padding-bottom: 80px;
+    padding-left: 50px;
+    padding-right: 50px;
     box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.2);
  
     
@@ -46,7 +48,9 @@
     align-items: center;
 
     margin-top: 50px;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
 
 }
